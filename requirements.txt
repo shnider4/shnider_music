@@ -10,4 +10,4 @@ youtube_search_python
 wget
 aiohttp
 requests
-python-dotenv
+
